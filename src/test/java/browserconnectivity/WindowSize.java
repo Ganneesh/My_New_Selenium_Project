@@ -16,8 +16,9 @@ public class WindowSize {
 		
 		WebDriver driver=new ChromeDriver();
 	
-		driver.get("https://google.com");
+		//driver.get("https://google.com");
 
+			driver.get("https://www.facebook.com/");
 		
 		Dimension size=driver.manage().window().getSize();
 		
