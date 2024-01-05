@@ -13,6 +13,9 @@ public class ChromeConnectivity {
 		// TODO Auto-generated method stub
 		
 		WebDriverManager.chromedriver().setup();
+		//Setup the driverversion as well 
+		
+		//WebDriverManager.chromedriver().driverVersion("").setup();
 		
 		WebDriver driver= new ChromeDriver();
 		
