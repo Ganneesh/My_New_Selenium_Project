@@ -1,0 +1,8 @@
+<suite name="MySuite">
+    <test name="Test1">
+        <classes>
+            <class name="TestNG_Practice.Hooks" />
+            <class name="TestNG_Practice.DataProvider" />
+        </classes>
+    </test>
+</suite>
