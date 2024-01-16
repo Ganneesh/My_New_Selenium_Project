@@ -12,7 +12,7 @@ public class WindowSize {
 		// TODO Auto-generated method stub
 
 		
-		WebDriverManager.chromedriver().setup();
+		//WebDriverManager.chromedriver().setup();
 		
 		WebDriver driver=new ChromeDriver();
 	
